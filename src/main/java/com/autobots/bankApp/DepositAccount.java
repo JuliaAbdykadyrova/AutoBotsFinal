@@ -1,4 +1,4 @@
-package bankApp;
+package com.autobots.bankApp;
 
 public class DepositAccount extends BankAccount {
 

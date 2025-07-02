@@ -1,4 +1,4 @@
-package bankApplication; //Mbank
+package com.autobots.bankApplication; //Mbank
 
 public class Mbank extends BankBase{
 

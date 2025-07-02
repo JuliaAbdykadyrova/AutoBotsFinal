@@ -1,4 +1,4 @@
-package bankApplication;
+package com.autobots.bankApplication;
 
 import java.util.HashSet;
 import java.util.Set;

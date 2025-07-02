@@ -1,4 +1,4 @@
-package bankApp;
+package com.autobots.bankApp;
 
 public class CreditAccount extends BankAccount {
 

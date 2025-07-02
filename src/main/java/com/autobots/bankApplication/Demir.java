@@ -1,4 +1,4 @@
-package bankApplication; // BankDemir
+package com.autobots.bankApplication; // BankDemir
 
 public class Demir extends BankBase {
 

@@ -1,10 +1,8 @@
-package bankApp;
+package com.autobots.bankApp;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-
-import static bankApp.BankAccount.accountNumber;
 
 public class Demo {
 

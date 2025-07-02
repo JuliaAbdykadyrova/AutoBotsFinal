@@ -1,4 +1,4 @@
-package bankApp;
+package com.autobots.bankApp;
 
 import java.util.ArrayList;
 import java.util.List;
