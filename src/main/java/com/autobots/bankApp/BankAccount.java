@@ -17,9 +17,9 @@ public abstract class BankAccount {
         this.currency = currency;
     }
 
-     public abstract void deposit(double amount);
+    public abstract void deposit(double amount);
 
-     public abstract boolean withDraw(double amount);
+    public abstract boolean withDraw(double amount);
 
     public void addTransaction(String type, double amount) {
         transactions.add(new Transaction(type, amount));
@@ -37,7 +37,7 @@ public abstract class BankAccount {
         return owner;
     }
 
-    public  Currency getCurrency() {
+    public Currency getCurrency() {
         return currency;
     }
 
